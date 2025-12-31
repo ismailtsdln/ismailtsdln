@@ -1,10 +1,6 @@
 # <p align="center">👋 Hi, I'm İsmail Taşdelen</p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Security is not a product, but a process.&author=Bruce Schneier" alt="Quote" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/ismailtasdelen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://ismailtasdelen.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="mailto:ismailtasdelen@protonmail.ch"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -67,10 +63,6 @@ Hi, my name is **İsmail Taşdelen**. I live in Istanbul and work in the IT indu
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ismailtsdln&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ismailtsdln&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="48%" />

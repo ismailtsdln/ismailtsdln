@@ -65,11 +65,6 @@ Hi, my name is **İsmail Taşdelen**. I live in Istanbul and work in the IT indu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailtsdln&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailtsdln&layout=compact&theme=radical" alt="Top Languages" width="38%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailtsdln&theme=radical" alt="Streak Stats" width="87%" />
 </p>
 

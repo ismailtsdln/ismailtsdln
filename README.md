@@ -1,9 +1,5 @@
 # 👋 Hi, I'm İsmail Taşdelen
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Security is not a product, but a process.&author=Bruce Schneier" alt="Quote" />
-</p>
-
 🔐 **Application Security Specialist | Pentester**  
 📍 Istanbul, Turkey  
 
@@ -83,8 +79,3 @@ Hi, my name is **İsmail Taşdelen**. I live in Istanbul and work in the IT indu
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailtsdln&show_icons=true&theme=radical" alt="Ismail's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailtsdln&layout=compact&theme=radical" alt="Top Languages" />
-</p>

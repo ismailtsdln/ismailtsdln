@@ -1,5 +1,6 @@
 # <p align="center">👋 Hi, I'm İsmail Taşdelen</p>
 
+<<<<<<< HEAD
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Security is not a product, but a process.&author=Bruce Schneier" alt="Quote" />
 </p>
@@ -18,6 +19,10 @@
 ---
 
 ### 📖 About Me
+=======
+🔐 **Application Security Specialist | Pentester**  
+📍 Istanbul, Turkey  
+>>>>>>> ba8403413be186801e177f9a2d96a3914fe19495
 
 Hi, my name is **İsmail Taşdelen**. I live in Istanbul and work in the IT industry as a security professional. I specialize in finding security vulnerabilities and helping organizations secure their software ecosystems.
 
@@ -64,6 +69,7 @@ Hi, my name is **İsmail Taşdelen**. I live in Istanbul and work in the IT indu
 
 ---
 
+<<<<<<< HEAD
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -77,11 +83,36 @@ Hi, my name is **İsmail Taşdelen**. I live in Istanbul and work in the IT indu
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailtsdln&theme=radical" alt="Streak Stats" width="87%" />
+=======
+## 📝 Writing & Content
+
+- ✍️ **Medium Blog**: I write about cybersecurity trends, vulnerability research, and application security best practices. [Read on Medium](https://ismailtasdelen.medium.com/).
+- 📈 **Interests**: Fintech, long-term investing, real estate, and tech innovation.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ismailtasdelen/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ismailtasdelen.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="mailto:ismailtasdelen@protonmail.ch" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+>>>>>>> ba8403413be186801e177f9a2d96a3914fe19495
 </p>
 
 ---
 
+<<<<<<< HEAD
 <p align="center">
   <i>"I write about cybersecurity trends, vulnerability research, and application security."</i><br>
   👉 <b><a href="https://ismailtasdelen.medium.com/">Follow me on Medium</a></b>
 </p>
+=======
+## 📊 GitHub Stats
+>>>>>>> ba8403413be186801e177f9a2d96a3914fe19495

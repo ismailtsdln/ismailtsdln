@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🔐 <b>Application Security Specialist</b><br>
+  🔐 <b>Application Security Engineer</b><br>
   📍 Istanbul, Turkey
 </p>
 

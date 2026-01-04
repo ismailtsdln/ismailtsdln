@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🔐 <b>Application Security Specialist | Pentester</b><br>
+  🔐 <b>Application Security Specialist</b><br>
   📍 Istanbul, Turkey
 </p>
 
